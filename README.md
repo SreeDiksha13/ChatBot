@@ -23,6 +23,8 @@ An interactive chatbot built with **React.js**, powered by the **Gemini API** fo
 
 ## 🖼️ Screenshots
 ![image](https://github.com/user-attachments/assets/69458fe1-c7fb-47f2-8b9e-a0c0f5155584)
+![image](https://github.com/user-attachments/assets/5a2dd0c7-cce6-4c21-9858-4ecf7c07e3f9)
+
 
 
 
