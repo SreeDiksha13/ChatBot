@@ -1,0 +1,23 @@
+.message {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    padding: 20%;
+
+  }
+  
+  .message.bot {
+    flex-direction: row-reverse; 
+  }
+  
+  .message-icon {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+  }
+  
+  .message.user .message-icon {
+    margin-left: 10px;
+    margin-right: 0;
+  }
+  
